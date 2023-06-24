@@ -1,4 +1,4 @@
-# Sales-Analysis-And-Insights-Power-BI-SQL-
+# Sales-Analysis-And-Insights-Power-BI-SQL
 Problem Statement : Data analysis project to build power BI dashboard that can give real time sales insights.
 
 Undertook analysis of Database containing sales transactions, customer details, products and market information.
